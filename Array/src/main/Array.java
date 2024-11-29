@@ -9,7 +9,7 @@ public class Array {
 
 		int[] array = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 
-		System.out.print("Inserisci il numero da cercare all'interno dell'array: ");
+		System.out.print("Cerca un numero: ");
 		int numero = scanner.nextInt();
 
 		boolean caso = false;
